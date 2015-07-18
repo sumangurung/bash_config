@@ -7,3 +7,5 @@ if [ -f ~/.git-completion.bash ]; then
 fi
 
 alias be='bundle exec'
+
+source ~/.bash/init/git-aware-prompt.sh
